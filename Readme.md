@@ -4,7 +4,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange?logo=selenium)](https://www.selenium.dev/)  
 [![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-brightgreen?logo=pandas)](https://pandas.pydata.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)  
-[![Open Issues](https://img.shields.io/github/issues-raw/daemon403/web-scrapping)](https://github.com/daemon403/web-scrapping/issues)  
+[![Open Issues](https://img.shields.io/github/issues-raw/daemon403/web_scrapping)](https://github.com/daemon403/web_scrapping/issues)  
 
 **A Python-based web scraper** that extracts, categorizes, and exports exhibitor data from the [Ocean Business](https://exhibitormanual.oceanbusiness.com/exhibitor-list-search/) website into a structured Excel file.  
 
@@ -43,7 +43,7 @@
 ### **Steps**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/daemon403/web-scrapping.git
+   git clone https://github.com/daemon403/web_scrapping.git
    cd web-scrapping
    ```  
 
@@ -110,7 +110,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 2. Create a branch (`git checkout -b feature/your-feature`).  
 3. Submit a PR with clear documentation.  
 
-**Bug reports** and **feature requests** are welcome via [GitHub Issues](https://github.com/daemon403/web-scrapping/issues).  
+**Bug reports** and **feature requests** are welcome via [GitHub Issues](https://github.com/daemon403/web_scrapping/issues).  
 
 ---
 
